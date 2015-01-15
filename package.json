@@ -1,0 +1,24 @@
+{
+  "name": "streams-adventure",
+  "version": "1.0.0",
+  "description": "cracking through streams",
+  "main": "1.js",
+  "dependencies": {
+    "split": "^0.3.2",
+    "through": "^2.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gajjargaurav/stream-adventure.git"
+  },
+  "author": "Gaurav Gajjar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gajjargaurav/stream-adventure/issues"
+  },
+  "homepage": "https://github.com/gajjargaurav/stream-adventure"
+}
